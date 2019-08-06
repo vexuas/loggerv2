@@ -16,3 +16,6 @@ dump.rdb
 
 # Compiled Files
 dist
+
+# misc
+.DS_Store
